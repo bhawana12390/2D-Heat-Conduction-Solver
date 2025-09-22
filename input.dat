@@ -1,0 +1,16 @@
+thermal_conductivity 1
+thermal_diffusivity 1
+min_over_relaxation 0.6
+max_over_relaxation 1.8
+step_over_relaxation 0.2
+wanted_over_relaxation 1.2
+length 0.3
+height 0.4
+temp_x_0 0
+temp_x_length 0
+temp_y_0 40
+temp_y_height 10
+delta_x 0.01
+delta_y 0.01
+max_iter 5000
+symmetric 0
